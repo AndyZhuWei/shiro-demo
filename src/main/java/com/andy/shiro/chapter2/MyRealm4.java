@@ -3,11 +3,6 @@ package com.andy.shiro.chapter2;
 import org.apache.shiro.authc.*;
 import org.apache.shiro.realm.Realm;
 
-/**
- * <p>User: Zhang Kaitao
- * <p>Date: 14-1-25
- * <p>Version: 1.0
- */
 public class MyRealm4 implements Realm {
 
     @Override
